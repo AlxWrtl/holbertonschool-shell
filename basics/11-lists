@@ -1,2 +1,3 @@
 #!/bin/bash
-ls -lna /. ls -lna /.. ls -lna /boot
+ls -lna /. /.. /boot
+
