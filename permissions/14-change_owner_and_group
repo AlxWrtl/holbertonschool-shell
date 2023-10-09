@@ -1,2 +1,3 @@
 #!/bin/bash
-chown o=vincent g=staff
+sudo chown vincent:staff
+
