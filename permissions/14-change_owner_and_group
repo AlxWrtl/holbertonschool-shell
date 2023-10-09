@@ -1,2 +1,2 @@
 #!/bin/bash
-chown vincent staff
+chown o=vincent g=staff
