@@ -1,2 +1,2 @@
 #!/bin/bash
-find -maxdepth -type PATH | wc -l
+echo $PATH | wc 
