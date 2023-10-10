@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "2.55 \n"
+printf "%.2f \n"
